@@ -46,4 +46,4 @@ Axios is pivotal in facilitating communication with the [CocktailDB API](https:/
 
 Drinks Library is successful integration of React, React Router, React Query, and Axios. Its modular architecture, efficient data management, and seamless API interactions converge to deliver a robust and engaging user experience.
 
-[Live Project](https://rutvik-drinkslibrary.netlify.app/newsletter)
+[Live Project](https://rutvik-drinkslibrary.netlify.app)
