@@ -1,12 +1,12 @@
-# Drink Library
+# Drinks Library
 
 ## Introduction
 
-Drink Library is a robust and feature-rich web application developed using cutting-edge technologies. This document provides an in-depth insight into the architecture, components, and interactions that power the Drink Library experience.
+Drinks Library is a robust and feature-rich web application developed using cutting-edge technologies. This document provides an in-depth insight into the architecture, components, and interactions that power the Drinks Library experience.
 
 ## Technologies Used
 
-Drink Library is built upon a foundation of advanced technologies, each playing a crucial role in shaping the application's functionality and performance:
+Drinks Library is built upon a foundation of advanced technologies, each playing a crucial role in shaping the application's functionality and performance:
 
 - **React**: The core framework driving the user interface and facilitating the dynamic rendering of components.
 
@@ -14,11 +14,11 @@ Drink Library is built upon a foundation of advanced technologies, each playing 
 
 - **React Query**: A dynamic data-fetching library optimizing API interactions and caching data for efficient rendering.
 
-- **Axios**: A JavaScript library for making asynchronous HTTP requests, serving as the conduit between Drink Library and the [CocktailDB API](https://www.thecocktaildb.com/api.php).
+- **Axios**: A JavaScript library for making asynchronous HTTP requests, serving as the conduit between Drinks Library and the [CocktailDB API](https://www.thecocktaildb.com/api.php).
 
 ## Architecture Overview
 
-The architecture of Drink Library is designed for modularity, maintainability, and extensibility. The application follows a component-based structure, with each feature and functionality encapsulated within individual components. Key architectural components include:
+The architecture of Drinks Library is designed for modularity, maintainability, and extensibility. The application follows a component-based structure, with each feature and functionality encapsulated within individual components. Key architectural components include:
 
 1. **App Component**: The root component housing the main layout and navigation structure.
 
@@ -30,7 +30,7 @@ The architecture of Drink Library is designed for modularity, maintainability, a
 
 ## Data Management with React Query
 
-Drink Library employs React Query to enhance data management and optimize user interactions:
+Drinks Library employs React Query to enhance data management and optimize user interactions:
 
 - **Queries**: React Query's querying mechanism ensures efficient data retrieval from the CocktailDB API, with automatic caching to minimize redundant requests.
 
@@ -44,6 +44,6 @@ Axios is pivotal in facilitating communication with the [CocktailDB API](https:/
 
 ## Conclusion
 
-Drink Library is successful integration of React, React Router, React Query, and Axios. Its modular architecture, efficient data management, and seamless API interactions converge to deliver a robust and engaging user experience.
+Drinks Library is successful integration of React, React Router, React Query, and Axios. Its modular architecture, efficient data management, and seamless API interactions converge to deliver a robust and engaging user experience.
 
-[Live Project](https://rutvik-drinkshop.netlify.app/)
+[Live Project](https://rutvik-drinkslibrary.netlify.app/newsletter)
